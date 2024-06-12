@@ -2,9 +2,9 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Analysis of DHS Data",
+    "title": "My First Dashboard",
     "section": "",
-    "text": "This was a project using DHS data. You can find the project here\n\n1 + 1\n\n[1] 2"
+    "text": "Gapminder Dashboard"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -25,6 +25,20 @@
     "href": "portfolio.html",
     "title": "My Portfolio",
     "section": "",
-    "text": "Analysis of DHS Data\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nMay 8, 2024\n\n\nAmy Mwikali Mwanga\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2024\n\n\nAmy Mwikali Mwanga\n\n\n\n\n\n\nNo matching items"
+    "text": "My First Dashboard\n\n\n\n\n\n\ndashboard\n\n\ncode\n\n\nr\n\n\n\n\n\n\n\n\n\nMay 8, 2024\n\n\nAmy Mwikali Mwanga\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 5, 2024\n\n\nAmy Mwikali Mwanga\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#project-overview",
+    "href": "posts/post-with-code/index.html#project-overview",
+    "title": "My First Dashboard",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis project involves creating a dashboard using Gapminder data. The dashboard provides insightful visualizations and analyses on various global development indicators.\nYou can view the complete project dashboard here."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#categories",
+    "href": "posts/post-with-code/index.html#categories",
+    "title": "My First Dashboard",
+    "section": "Categories",
+    "text": "Categories\n\nDashboard\n\nGapminder Dashboard - The main interactive dashboard displaying various global development indicators using Gapminder data.\n\n\n\nCode\n\nGitHub Repository - The source code for the dashboard project, including all the scripts and configurations.\n\n\n\nR\n\nDetailed explanation of the R scripts and visualization techniques used in the project."
   }
 ]

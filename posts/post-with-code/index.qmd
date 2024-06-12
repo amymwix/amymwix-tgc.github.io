@@ -1,13 +1,29 @@
 ---
-title: "Analysis of DHS Data"
+title: "My First Dashboard"
 author: "Amy Mwikali Mwanga"
 date: "2024-05-08"
-categories: [news, code, analysis,  r]
+categories: [dashboard, code, r]
 image: "image.jpg"
 ---
 
-This was a project using DHS data. You can find the project [here](https://github.com/amymwix/owid_life_satisfaction){target="_blank"}
+![Gapminder Dashboard](./image.jpg)
 
-```{r}
-1 + 1
-```
+## Project Overview
+
+This project involves creating a dashboard using Gapminder data. The dashboard provides insightful visualizations and analyses on various global development indicators.
+
+You can view the complete project dashboard [here](https://amymwix.github.io/gapminder_dash/).
+
+## Categories
+
+### Dashboard
+
+-   [Gapminder Dashboard](https://amymwix.github.io/gapminder_dash/) - The main interactive dashboard displaying various global development indicators using Gapminder data.
+
+### Code
+
+-   [GitHub Repository](https://github.com/amymwix/gapminder_dash/blob/365d85520136d95fa5b4a206371e8687643403ae/my_dashboard.qmd) - The source code for the dashboard project, including all the scripts and configurations.
+
+### R
+
+-   Detailed explanation of the R scripts and visualization techniques used in the project.
