@@ -22,20 +22,20 @@ You can view the complete project dashboard [here](https://amymwix.github.io/gap
 
 This project involves creating a dashboard to track influenza data in provinces in China for the year 2013. The dashboard provides real-time updates and visualizations on influenza trends and statistics.
 
-You can view the complete project dashboard [here](https://amymwix.github.io/influenza_china_2013/).
+You can view the complete project dashboard [here](https://amymwix.github.io/influenza_dash/).
 
 ## Categories
 
 ### Dashboard
 
-- [Gapminder Dashboard](https://amymwix.github.io/gapminder_dash/) - The main interactive dashboard displaying life expectancy trends across different countries using Gapminder data for the year 2007.
-- [Influenza Dashboard (China, 2013)](https://amymwix.github.io/influenza_dash/) - Real-time dashboard tracking influenza data in provinces in China for the year 2013.
+-   [Gapminder Dashboard](https://amymwix.github.io/gapminder_dash/) - The main interactive dashboard displaying life expectancy trends across different countries using Gapminder data for the year 2007.
+-   [Influenza Dashboard (China, 2013)](https://amymwix.github.io/influenza_dash/) - Real-time dashboard tracking influenza data in provinces in China for the year 2013.
 
 ### Code
 
-- [GitHub Repository for Influenza Dashboard](https://github.com/amymwix/influenza_dash.git) - The source code for the influenza dashboard project, including all scripts and configurations.
-- [GitHub Repository for Gapminder Dashboard](https://github.com/amymwix/gapminder_dash/blob/365d85520136d95fa5b4a206371e8687643403ae/my_dashboard.qmd) - The source code for the gapminder dashboard project, including all scripts and configurations.
+-   [GitHub Repository for Influenza Dashboard](https://github.com/amymwix/influenza_dash.git) - The source code for the influenza dashboard project, including all scripts and configurations.
+-   [GitHub Repository for Gapminder Dashboard](https://github.com/amymwix/gapminder_dash/blob/365d85520136d95fa5b4a206371e8687643403ae/my_dashboard.qmd) - The source code for the gapminder dashboard project, including all scripts and configurations.
 
 ### R
 
-- Detailed explanation of the R scripts and visualization techniques used in the projects.
+-   Detailed explanation of the R scripts and visualization techniques used in the projects.

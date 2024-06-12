@@ -40,5 +40,33 @@
     "title": "My Portfolio",
     "section": "Categories",
     "text": "Categories\n\nDashboard\n\nGapminder Dashboard - The main interactive dashboard displaying life expectancy trends across different countries using Gapminder data for the year 2007.\nInfluenza Dashboard (China, 2013) - Real-time dashboard tracking influenza data in provinces in China for the year 2013.\n\n\n\nCode\n\nGitHub Repository for Influenza Dashboard - The source code for the influenza dashboard project, including all scripts and configurations.\nGitHub Repository for Gapminder Dashboard - The source code for the gapminder dashboard project, including all scripts and configurations.\n\n\n\nR\n\nDetailed explanation of the R scripts and visualization techniques used in the projects."
+  },
+  {
+    "objectID": "posts 2/post-with-code/index.html",
+    "href": "posts 2/post-with-code/index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Gapminder Dashboard"
+  },
+  {
+    "objectID": "posts 2/post-with-code/index.html#project-overview",
+    "href": "posts 2/post-with-code/index.html#project-overview",
+    "title": "My Portfolio",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis portfolio showcases my work on various projects, including interactive dashboards and coding projects.\n\nProject 1: Gapminder Dashboard(Life Expectancy 2007)\nThis project involves creating a dashboard using Gapminder data on life expectancy for the year 2007. The dashboard provides insightful visualizations and analyses on life expectancy trends across different countries.\nYou can view the complete project dashboard here.\n\n\nProject 2: Influenza Dashboard (China, 2013)\nThis project involves creating a dashboard to track influenza data in provinces in China for the year 2013. The dashboard provides real-time updates and visualizations on influenza trends and statistics.\nYou can view the complete project dashboard here."
+  },
+  {
+    "objectID": "posts 2/post-with-code/index.html#categories",
+    "href": "posts 2/post-with-code/index.html#categories",
+    "title": "My Portfolio",
+    "section": "Categories",
+    "text": "Categories\n\nDashboard\n\nGapminder Dashboard - The main interactive dashboard displaying life expectancy trends across different countries using Gapminder data for the year 2007.\nInfluenza Dashboard (China, 2013) - Real-time dashboard tracking influenza data in provinces in China for the year 2013.\n\n\n\nCode\n\nGitHub Repository for Influenza Dashboard - The source code for the influenza dashboard project, including all scripts and configurations.\nGitHub Repository for Gapminder Dashboard - The source code for the gapminder dashboard project, including all scripts and configurations.\n\n\n\nR\n\nDetailed explanation of the R scripts and visualization techniques used in the projects."
+  },
+  {
+    "objectID": "posts 2/welcome/index.html",
+    "href": "posts 2/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

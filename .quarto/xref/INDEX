@@ -16,5 +16,11 @@
   },
   "cv.qmd": {
     "cv.html": "8aad7f1d"
+  },
+  "posts 2/post-with-code/index.qmd": {
+    "index.html": "bb5e3c1c"
+  },
+  "posts 2/welcome/index.qmd": {
+    "index.html": "bf9ba3c4"
   }
 }
