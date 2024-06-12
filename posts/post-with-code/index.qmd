@@ -1,29 +1,41 @@
 ---
-title: "My First Dashboard"
+title: "My Portfolio"
 author: "Amy Mwikali Mwanga"
-date: "2024-05-08"
+date: "2024-06-12"
 categories: [dashboard, code, r]
 image: "image.jpg"
 ---
 
-![Gapminder Dashboard](./image.jpg)
+![Gapminder Dashboard](./image2.jpg)
 
 ## Project Overview
 
-This project involves creating a dashboard using Gapminder data. The dashboard provides insightful visualizations and analyses on various global development indicators.
+This portfolio showcases my work on various projects, including interactive dashboards and coding projects.
+
+### Project 1: Gapminder Dashboard(Life Expectancy 2007)
+
+This project involves creating a dashboard using Gapminder data on life expectancy for the year 2007. The dashboard provides insightful visualizations and analyses on life expectancy trends across different countries.
 
 You can view the complete project dashboard [here](https://amymwix.github.io/gapminder_dash/).
+
+### Project 2: Influenza Dashboard (China, 2013)
+
+This project involves creating a dashboard to track influenza data in provinces in China for the year 2013. The dashboard provides real-time updates and visualizations on influenza trends and statistics.
+
+You can view the complete project dashboard [here](https://amymwix.github.io/influenza_china_2013/).
 
 ## Categories
 
 ### Dashboard
 
--   [Gapminder Dashboard](https://amymwix.github.io/gapminder_dash/) - The main interactive dashboard displaying various global development indicators using Gapminder data.
+- [Gapminder Dashboard](https://amymwix.github.io/gapminder_dash/) - The main interactive dashboard displaying life expectancy trends across different countries using Gapminder data for the year 2007.
+- [Influenza Dashboard (China, 2013)](https://amymwix.github.io/influenza_dash/) - Real-time dashboard tracking influenza data in provinces in China for the year 2013.
 
 ### Code
 
--   [GitHub Repository](https://github.com/amymwix/gapminder_dash/blob/365d85520136d95fa5b4a206371e8687643403ae/my_dashboard.qmd) - The source code for the dashboard project, including all the scripts and configurations.
+- [GitHub Repository for Influenza Dashboard](https://github.com/amymwix/influenza_dash.git) - The source code for the influenza dashboard project, including all scripts and configurations.
+- [GitHub Repository for Gapminder Dashboard](https://github.com/amymwix/gapminder_dash/blob/365d85520136d95fa5b4a206371e8687643403ae/my_dashboard.qmd) - The source code for the gapminder dashboard project, including all scripts and configurations.
 
 ### R
 
--   Detailed explanation of the R scripts and visualization techniques used in the project.
+- Detailed explanation of the R scripts and visualization techniques used in the projects.
